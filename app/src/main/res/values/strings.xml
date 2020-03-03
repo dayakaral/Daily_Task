@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Daily Task</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_task">Add Task</string>
+    <string name="TaskDetailstext">Task Details</string>
+    <string name="taskTitleText">Task Title</string>
+    <string name="taskDurationText">Task Duration in Minutes</string>
+    <string name="saveText">SAVE</string>
+    <string name="taskTypeText">Task Type</string>
+    <string name="easyText">Easy</string>
+    <string name="mediumText">Medium</string>
+    <string name="hardTExt">Hard</string>
+</resources>
